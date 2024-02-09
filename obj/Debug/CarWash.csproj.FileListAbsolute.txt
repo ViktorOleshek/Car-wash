@@ -1,0 +1,41 @@
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\CarWash.exe.config
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\CarWash.exe
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\CarWash.pdb
+D:\lpnu\3 sem\ComandWork\CarWash\obj\Debug\CarWash.csproj.AssemblyReference.cache
+D:\lpnu\3 sem\ComandWork\CarWash\obj\Debug\CarWash.csproj.SuggestedBindingRedirects.cache
+D:\lpnu\3 sem\ComandWork\CarWash\obj\Debug\MainWindow.g.cs
+D:\lpnu\3 sem\ComandWork\CarWash\obj\Debug\App.g.cs
+D:\lpnu\3 sem\ComandWork\CarWash\obj\Debug\CarWash_MarkupCompile.cache
+D:\lpnu\3 sem\ComandWork\CarWash\obj\Debug\CarWash_MarkupCompile.lref
+D:\lpnu\3 sem\ComandWork\CarWash\obj\Debug\MainWindow.baml
+D:\lpnu\3 sem\ComandWork\CarWash\obj\Debug\CarWash.g.resources
+D:\lpnu\3 sem\ComandWork\CarWash\obj\Debug\CarWash.Properties.Resources.resources
+D:\lpnu\3 sem\ComandWork\CarWash\obj\Debug\CarWash.csproj.GenerateResource.cache
+D:\lpnu\3 sem\ComandWork\CarWash\obj\Debug\CarWash.csproj.CoreCompileInputs.cache
+D:\lpnu\3 sem\ComandWork\CarWash\obj\Debug\CarWash.exe
+D:\lpnu\3 sem\ComandWork\CarWash\obj\Debug\CarWash.pdb
+D:\lpnu\3 sem\ComandWork\CarWash\obj\Debug\New Window\AddEmployee.g.cs
+D:\lpnu\3 sem\ComandWork\CarWash\obj\Debug\New Window\AddService.g.cs
+D:\lpnu\3 sem\ComandWork\CarWash\obj\Debug\New Window\AddEmployee.baml
+D:\lpnu\3 sem\ComandWork\CarWash\obj\Debug\New Window\AddService.baml
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\lpnu\3 sem\ComandWork\CarWash\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\lpnu\3 sem\ComandWork\CarWash\obj\Debug\CarWash.csproj.CopyComplete
+D:\lpnu\3 sem\ComandWork\CarWash\obj\Debug\New Window\AddDate.g.cs
+D:\lpnu\3 sem\ComandWork\CarWash\obj\Debug\New Window\AddDate.baml
